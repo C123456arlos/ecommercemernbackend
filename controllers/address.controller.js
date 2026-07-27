@@ -261,7 +261,7 @@
 
 
 import { response } from "express"
-import CartProductModel from "../models/cartproduct.model.js"
+import CartProductModel from "../models/cartProduct.model.js"
 import ProductSlideModel from "../models/slide.model.js"
 import UserModel from "../models/user.model.js"
 import AddressModel from "../models/address.model.js"
