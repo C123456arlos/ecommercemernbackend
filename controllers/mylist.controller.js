@@ -1,5 +1,5 @@
 import { request } from "express"
-import CartProductModel from "../models/cartproduct.model.js"
+import CartProductModel from "../models/cartProduct.model.js"
 import MyListModel from "../models/myList.model.js"
 
 export const addToMyListController = async (request, response) => {
